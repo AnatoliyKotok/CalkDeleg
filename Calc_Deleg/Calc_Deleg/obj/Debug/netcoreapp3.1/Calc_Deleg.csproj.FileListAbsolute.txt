@@ -1,0 +1,13 @@
+C:\Users\Anatoliy\source\repos\Calc_Deleg\Calc_Deleg\bin\Debug\netcoreapp3.1\Calc_Deleg.exe
+C:\Users\Anatoliy\source\repos\Calc_Deleg\Calc_Deleg\bin\Debug\netcoreapp3.1\Calc_Deleg.deps.json
+C:\Users\Anatoliy\source\repos\Calc_Deleg\Calc_Deleg\bin\Debug\netcoreapp3.1\Calc_Deleg.runtimeconfig.json
+C:\Users\Anatoliy\source\repos\Calc_Deleg\Calc_Deleg\bin\Debug\netcoreapp3.1\Calc_Deleg.runtimeconfig.dev.json
+C:\Users\Anatoliy\source\repos\Calc_Deleg\Calc_Deleg\bin\Debug\netcoreapp3.1\Calc_Deleg.dll
+C:\Users\Anatoliy\source\repos\Calc_Deleg\Calc_Deleg\bin\Debug\netcoreapp3.1\Calc_Deleg.pdb
+C:\Users\Anatoliy\source\repos\Calc_Deleg\Calc_Deleg\obj\Debug\netcoreapp3.1\Calc_Deleg.csprojAssemblyReference.cache
+C:\Users\Anatoliy\source\repos\Calc_Deleg\Calc_Deleg\obj\Debug\netcoreapp3.1\Calc_Deleg.AssemblyInfoInputs.cache
+C:\Users\Anatoliy\source\repos\Calc_Deleg\Calc_Deleg\obj\Debug\netcoreapp3.1\Calc_Deleg.AssemblyInfo.cs
+C:\Users\Anatoliy\source\repos\Calc_Deleg\Calc_Deleg\obj\Debug\netcoreapp3.1\Calc_Deleg.csproj.CoreCompileInputs.cache
+C:\Users\Anatoliy\source\repos\Calc_Deleg\Calc_Deleg\obj\Debug\netcoreapp3.1\Calc_Deleg.dll
+C:\Users\Anatoliy\source\repos\Calc_Deleg\Calc_Deleg\obj\Debug\netcoreapp3.1\Calc_Deleg.pdb
+C:\Users\Anatoliy\source\repos\Calc_Deleg\Calc_Deleg\obj\Debug\netcoreapp3.1\Calc_Deleg.genruntimeconfig.cache
